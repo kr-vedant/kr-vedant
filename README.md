@@ -1,3 +1,4 @@
+![readme](https://user-images.githubusercontent.com/71584868/132262244-09c4ba99-3157-4fd1-acb8-9dafc0e646a5.gif)
 ### Hi there 👋
 
 <!--
